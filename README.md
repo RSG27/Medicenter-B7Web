@@ -4,4 +4,4 @@
 
 # PROJETO EM DIFERENTES DISPOSITIVOS
 
-<img src="Flexbox/Projeto com Flexbox e HTML Semântico/Responsividade.gif"/>
+<img src="Responsividade.gif"/>
