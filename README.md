@@ -2,6 +2,6 @@
 
 <p>Projeto para fins de estudo realizado durante o curso B7Web ministrado pelo professor Bonieky afim de aplicar os conceitos de HTML5 e CSS3 supracitados. Para isso, foi utilizado o template da clínica medicenter.</p>
 
-<h2 style="text-align: center;">RESPONSIVIDADE</h2>
+<h1 style="text-align: center;">RESPONSIVIDADE</h1>
 
 <img src="Responsividade.gif"/>
