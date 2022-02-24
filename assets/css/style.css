@@ -9,7 +9,7 @@ body {
 }
 /*********************************************/
 
-/* Menu e logo do site*/ 
+/* Estilização do menu e da logo do site*/ 
 header {
   display: flex;
   justify-content: center;
@@ -59,7 +59,7 @@ nav a:hover {
 }
 /***************************/
 
-/* Background da parte inicial do site*/ 
+/* Estilização do banner da parte inicial do site*/ 
 #banner {
   display: flex;
   justify-content: center;
@@ -135,7 +135,7 @@ nav a:hover {
 /***************************/
 
 
-/* Área das notícias do site*/
+/* Estilização da área de notícias do site*/
 .days_week {
   display: flex;
   font-size: 12px;
@@ -158,7 +158,7 @@ nav a:hover {
 }
 /***************************/
 
-/* Títulos das áreas do site*/
+/* Estilização dos títulos das áreas do site*/
 .widget_title {
   margin-top: 30px;
   margin-bottom: 20px;
@@ -177,7 +177,7 @@ nav a:hover {
 /***************************/
 
 
-/* Área dos artigos */
+/* Estilização da área dos artigos */
 article {
   flex: 1;
   min-width: 300px;
@@ -236,7 +236,7 @@ article .news_resume {
 }
 /***************************/
 
-/* Área dos departamentos */ 
+/* Estilização da área dos departamentos */ 
 .widget_body_dpt {
   display: flex;
 }
@@ -264,7 +264,7 @@ article .news_resume {
 /***************************/
 
 
-/* Área de Agendamento de consultas*/
+/* Estilização da área de Agendamento de consultas*/
 .widget_body_app {
   font-size: 12px;
 }
@@ -280,7 +280,7 @@ article .news_resume {
 /***************************/
 
 
-/* Rodapé do site */
+/* Estilização do rodapé do site */
 footer {
   background-color: #1e1e1e;
   display: flex;
@@ -416,7 +416,7 @@ footer .widget_title_text {
 }
 /***************************/
 
-/* Menu mobile*/
+/* Estilização do Menu mobile*/
 .menuMobile {
   display: none;
   width: 40px;
