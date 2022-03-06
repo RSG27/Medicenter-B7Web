@@ -7,14 +7,6 @@ Projeto para fins de estudo realizado durante o curso B7Web ministrado pelo prof
 # Clonar respositório
 
 <p>
-'''
-gh repo clone repository
-
-gh repo clone https://github.com/cli/cli
-'''
-
-Ficou em Dúvida, siga estes passos:
-
 https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site
 </p>
 
