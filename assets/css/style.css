@@ -212,7 +212,7 @@ article .news_thumbnail {
 }
 
 article .news_thumbnail img {
-  width: 100%;
+  width: 90%;
   height: auto;
 }
 
@@ -272,10 +272,14 @@ article .news_resume {
 .squares {
   display: flex;
   background-color: #39aae1;
-  width: 90px;
-  height: 90px;
+  width: 100px;
+  height: 100px;
   margin: 10px;
   padding: 10px;
+  color: #FFFFFF;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
 }
 /***************************/
 
@@ -285,6 +289,7 @@ footer {
   background-color: #1e1e1e;
   display: flex;
   justify-content: center;
+  margin-top: 50px;
 }
 
 .footer_menu {
@@ -453,7 +458,7 @@ footer .widget_title_text {
 
   #geral section,
   #geral aside {
-    padding: 20px;
+    padding-left: 20px;
   }
  
   .footer_menu {
@@ -500,8 +505,10 @@ footer .widget_title_text {
 }
 
 @media (min-width: 601px) {
-  nav ul {
-    padding-left: 50px;
+  nav ul, 
+  section,
+  footer {
+    padding-left: 10px;
   }
 }
 /*********************************/
