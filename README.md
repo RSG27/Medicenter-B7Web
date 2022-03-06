@@ -12,4 +12,4 @@ https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloni
 
 # Responsividade
 
-<img src="Responsividade.gif"/>
+<img src="responsividade.gif"/>
