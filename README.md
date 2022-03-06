@@ -7,7 +7,7 @@ Projeto para fins de estudo realizado durante o curso B7Web ministrado pelo prof
 # Clonar respositório
 
 <p>
-https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site
+https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository
 </p>
 
 # Responsividade
