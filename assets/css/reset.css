@@ -1,0 +1,9 @@
+/* Aplicação das propriedades no site inteiro*/
+* { 
+  font-family: Arial;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,40 @@
+/* Estilização da área de Agendamento de consultas*/
+.widget_title {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.widget_title_text {
+  color: #000000;
+  font-size: 21px;
+  font-weight: bold;
+}
+.widget_title_bar {
+  width: 50px;
+  height: 3px;
+  background-color: #39aae1;
+  margin-top: 10px;
+}
+.widget_body_app {
+  font-size: 12px;
+}
+
+.contacts {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border-top:1px solid #CCC;
+}
+
+.contacts p {
+  padding-left: 5px;
+}
+
+.contacts a {
+  color: #39aae1;
+  text-decoration: none;
+}
+
+.contacts:last-child  {
+  border-bottom: 1px solid #CCC;
+  margin-bottom: 5px;
+}

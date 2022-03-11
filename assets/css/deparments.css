@@ -1,0 +1,35 @@
+/* Estilização da área dos departamentos */ 
+
+.widget_title {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.widget_title_text {
+  color: #000000;
+  font-size: 21px;
+  font-weight: bold;
+}
+.widget_title_bar {
+  width: 50px;
+  height: 3px;
+  background-color: #39aae1;
+  margin-top: 10px;
+}
+
+.widget_body_dpt {
+  display: flex;
+}
+
+.squares {
+  display: flex;
+  background-color: #39aae1;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  padding: 10px;
+  color: #FFFFFF;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+/*****************************************/
