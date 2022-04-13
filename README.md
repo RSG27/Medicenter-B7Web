@@ -10,6 +10,10 @@ Projeto para fins de estudo realizado durante o curso B7Web ministrado pelo prof
 https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository
 </p>
 
+# Acesse o site aqui
+
+<a href="https://lambent-conkies-9d0e77.netlify.app/"></a>
+
 # Aplicação da Responsividade
 
 <img src="screenshot.gif"/>
